@@ -1,0 +1,57 @@
+body {
+    background: #181818;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #232323;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+    padding: 32px 24px;
+    text-align: center;
+}
+.profile-img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    margin-bottom: 24px;
+    box-shadow: 0 2px 12px #0009;
+}
+h1 {
+    font-size: 2.2em;
+    margin-bottom: 8px;
+}
+p {
+    font-size: 1.1em;
+    margin-bottom: 24px;
+}
+.music-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+}
+.music-list li {
+    margin-bottom: 16px;
+}
+.music-link {
+    color: #1DB954;
+    text-decoration: none;
+    font-size: 1.08em;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.music-link:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+footer {
+    margin-top: 36px;
+    color: #888;
+    font-size: 0.95em;
+}
