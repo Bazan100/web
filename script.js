@@ -1,7 +1,4 @@
-// Mensaje de bienvenida en consola y mini efecto al hacer click en los enlaces
-console.log('Bienvenido a la página de Travis 🎵');
-
-// Efecto: cuando haces click en una canción, cambia el color del link un momento
+// Efecto visual al hacer click en los enlaces de música
 document.querySelectorAll('.music-link').forEach(link => {
     link.addEventListener('click', function () {
         this.style.color = '#FFD700';
