@@ -1,5 +1,5 @@
 body {
-    background: url('https://yt3.googleusercontent.com/ytc/AIdro_lYT_V7ztsYEvILayV7Ey_fgzx2VYpeLJxFXf1TO0rjPH8=s160-c-k-c0x00ffffff-no-rj') no-repeat center center fixed;
+    background: url('https://yt3.googleusercontent.com/sGiebKlKc1rGd-qyYnx033oRQG8CynMeKi8MLlxu8UGsnhvc_ejdvW1OS10KsM0ymXRBHdYy8As=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj') no-repeat center center fixed;
     background-size: cover;
     color: #fff;
     font-family: 'Segoe UI', Arial, sans-serif;
@@ -30,7 +30,7 @@ h1 {
     font-size: 2.2em;
     margin-bottom: 8px;
 }
-p {
+p.intro {
     font-size: 1.1em;
     margin-bottom: 24px;
 }
